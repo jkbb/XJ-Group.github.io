@@ -23,8 +23,8 @@ prof-c:
 #     image: /img/people/prof-x.png
 #     bio: Professor
 
-王劲博:
-    display_name: "王劲博"
+wjb:
+    display_name: "wjb"
     # webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: grad
     image: /img/people/wangjinbo.png
