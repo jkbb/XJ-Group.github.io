@@ -1,53 +1,53 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: 智能感知与控制课题组（Smart Perception and Control Lab）
+url: https://xj-group.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
-# colorize code snippets with the pygments module
+# 代码高亮模块
 highlighter: pygments
 
-# The path structure for blog posts.
+# 博客/news 新闻文章路径格式
 permalink: /blog/:year/:month/:day/:title.html
 
-# Sections on the "people" page.
+# 团队成员分组，顺序和显示名
 roles:
   - key: faculty
-    name: Faculty
-  - key: staff
-    name: Staff
+    name: 教师
   - key: postdoc
-    name: Researchers
+    name: 博士后
   - key: grad
-    name: Graduate Students
+    name: 硕士研究生
   - key: ugrad
-    name: Undergraduate Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
+    name: 本科生
   - key: collab
-    name: Collaborators
+    name: 合作单位
   - key: alum
-    name: Alumni
+    name: 校友
 
-# Number of news stories on the front page.
-front_page_news: 8
+# 首页显示新闻条数
+front_page_news: 6
 
-# Base pathname for links.
+# 基础路径（一般留空）
 base: ''
 
-# make pages for the _projects folder
+# 项目 collection 配置
 collections:
   projects:
     output: true
 
-# Navigation bar links.
+# 导航栏链接与命名
 navigation:
-  - title: Home
+  - title: 主页
     link: /
-  - title: People
-    link: /#people
-  - title: Research
+  - title: 团队成员
+    link: /people.html
+  - title: 课题与项目
     link: /research.html
-  - title: Publications
+  - title: 科研成果
     link: /publications.html
-  - title: Code
-    link: /code.html
+  - title: 联系我们
+    link: /contact.html
+
+# 网站描述和邮箱
+description: 专注于人工智能、自动化与多智能体系统的理论及应用研究
+email: 615xujia@tongji.edu.cn

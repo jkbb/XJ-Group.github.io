@@ -1,42 +1,48 @@
 
 prof-a:
-    display_name: "Prof A"
+    display_name: "许佳"
     role: faculty
+    image: /img/people/xujia.png
+    bio: Professor
 
 prof-b:
-    display_name: "Prof B"
+    display_name: "李莉"
     role: faculty
+    image: /img/people/lili.png
+    bio: Professor
 
 prof-c:
     display_name: "Prof C"
     role: faculty
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+# profx:
+#     display_name: "Professor X"
+#     webpage: "http://en.wikipedia.org/wiki/Professor_X"
+#     github: profx
+#     role: faculty
+#     image: /img/people/prof-x.png
+#     bio: Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+王劲博:
+    display_name: "王劲博"
+    # webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    role: grad
+    image: /img/people/wangjinbo.png
+    bio: 2023级硕士生-控制科学与工程
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+李玮诺:
+    display_name: "李玮诺"
+    # webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    role: grad
+    # image: /img/people/xxx
+    bio: 2024级硕士生
 
-storm:
-    display_name: "Storm"
+陈镜宇:
+    display_name: "陈镜宇"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/storm.png
+    # image: /img/people/xxx
+    bio: 2024级硕士生
 
 grad-a:
     display_name: "Grad A"

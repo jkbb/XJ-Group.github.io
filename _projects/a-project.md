@@ -1,5 +1,5 @@
 ---
-title: A Project
+title: AA Project
 
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
