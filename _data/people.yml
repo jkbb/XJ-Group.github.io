@@ -1,4 +1,5 @@
 
+# 教师
 prof-a:
     display_name: "许佳"
     role: faculty
@@ -6,10 +7,8 @@ prof-a:
     bio: Professor
 
 prof-b:
-    display_name: "李莉"
+    display_name: "Prof B"
     role: faculty
-    image: /img/people/lili.png
-    bio: Professor
 
 prof-c:
     display_name: "Prof C"
@@ -23,145 +22,78 @@ prof-c:
 #     image: /img/people/prof-x.png
 #     bio: Professor
 
-wjb:
-    display_name: "wjb"
+# 博士后：role: postdoc
+postdoc-a:
+    display_name: "卜存栽"
+    role: postdoc
+
+# 研究生 role: grad
+王冲冲:
+    display_name: "王冲冲"
+    role: grad
+    bio: 2022级硕士生
+
+王劲博:
+    display_name: "王劲博"
     # webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: grad
     image: /img/people/wangjinbo.png
-    bio: 2023级硕士生-控制科学与工程
+    bio: 2023级硕士-控制科学与工程
 
 李玮诺:
     display_name: "李玮诺"
     # webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     role: grad
     # image: /img/people/xxx
-    bio: 2024级硕士生
+    bio: 2024级硕士
 
 陈镜宇:
     display_name: "陈镜宇"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
     # image: /img/people/xxx
-    bio: 2024级硕士生
+    bio: 2024级硕士
 
 grad-a:
     display_name: "Grad A"
     role: grad
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
 
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
+# 毕业生 role: alum
 alum-a:
-    display_name: "Alum A"
+    display_name: "李一鸣"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "XX级博士. 现就职于xxx."
 
 alum-b:
-    display_name: "Alum B With Way Longer Name"
+    display_name: "赵茜妍"
     role: alum
+    bio: "2021级硕士. 现就职于零跑汽车."
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
+# alum-c:
+#     display_name: "Alum C"
+#     role: alum
+#     bio: "2021级硕士研究生. 现就职于."
+#     webpage: "https://www.google.com"
 
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
+# 合作伙伴 role: collab
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "华为技术有限公司"
     role: collab
 
 collab-b:
-    display_name: "Collaborator B With Long Name"
+    display_name: "Technische Universiteit Delft"
+    webpage: https://www.tudelft.nl/
     role: collab
 
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
+# 本科生 role: ugrad
 ugrad-a:
-    display_name: "Ugrad A"
+    display_name: "梅友仁"
     role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
 
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum

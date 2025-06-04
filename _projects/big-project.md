@@ -5,19 +5,8 @@ description: |
   This project has a lot of people working on it!!
   It also has some `Mark` _down_
 
-people:
-  - storm
-  - profx
-  - grad-a
-  - grad-b
-  - grad-c
-  - grad-d
-  - scott
-  - wolverine
-  - ugrad-a
-  - ugrad-b
-  - ugrad-c
-  - ugrad-d
+# people:
+#   - 王劲博
 
 layout: project
 ---

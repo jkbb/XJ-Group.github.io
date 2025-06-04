@@ -1,5 +1,5 @@
-title: 智能感知与控制课题组（Smart Perception and Control Lab）
-name: 智能感知与控制课题组（Smart Perception and Control Lab）
+title: 许佳老师课题组（XJ-Lab）
+name: 许佳老师课题组（XJ-Lab）
 url: https://xj-group.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -17,7 +17,7 @@ roles:
   - key: postdoc
     name: 博士后
   - key: grad
-    name: 硕士研究生
+    name: 在读研究生
   - key: ugrad
     name: 本科生
   - key: collab
